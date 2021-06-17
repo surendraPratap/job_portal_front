@@ -5,7 +5,7 @@ export default function Managepost() {
     return (
         <div>
             <Menu />
-            <h1>Manage Post</h1>
+            <h1>Manage Post assgined to you by Client</h1>
         </div>
     )
 }
